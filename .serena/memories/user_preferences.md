@@ -1,0 +1,1 @@
+Summarize tool output in Japanese.

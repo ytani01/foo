@@ -1,0 +1,12 @@
+{
+  "typeCheckingMode": "basic",
+  "include": [
+    "tests",
+    "main.py",
+    "src"
+  ],
+  "reportMissingImports": true,
+  "python": {
+    "pythonPath": "/home/ytani/work/foo/.venv/bin/python"
+  }
+}
